@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="776" viewBox="0 0 375 776">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_8">
+      <rect width="375" height="776"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_8" data-name="iPhone X, XS, 11 Pro – 8" clip-path="url(#clip-iPhone_X_XS_11_Pro_8)">
+    <rect width="375" height="776" fill="#f7f9f9"/>
+    <text id="_2" data-name="2" transform="translate(347 15)" fill="#fff" font-size="8" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.005em"><tspan x="0" y="0">2</tspan></text>
+    <text id="Add_to_Cart" data-name="Add to Cart" transform="translate(257 710)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Add to Cart</tspan></text>
+    <path id="Path_32" data-name="Path 32" d="M17.885,0A17.885,17.885,0,1,1,0,17.885,17.885,17.885,0,0,1,17.885,0Z" transform="translate(15 16)" fill="#212144" opacity="0.33"/>
+    <path id="Icon_material-keyboard-arrow-left" data-name="Icon material-keyboard-arrow-left" d="M21.061,21.2l-5.6-5.613,5.6-5.613L19.337,8.25,12,15.587l7.337,7.337Z" transform="translate(14.442 18.076)" fill="#212144"/>
+    <text id="Checkout" transform="translate(95 42)" fill="#373737" font-size="24" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Checkout</tspan></text>
+    <text id="Delivery_Address" data-name="Delivery Address" transform="translate(16 91)" fill="#373737" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Delivery Address</tspan></text>
+    <g id="Rectangle_58" data-name="Rectangle 58" transform="translate(15 119)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="141" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="140" rx="7.5" fill="none"/>
+    </g>
+    <text id="Payment_Method" data-name="Payment Method" transform="translate(18 299)" fill="#373737" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Payment Method</tspan></text>
+    <g id="Rectangle_59" data-name="Rectangle 59" transform="translate(18 327)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="340" height="53" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="339" height="52" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_60" data-name="Rectangle 60" transform="translate(18 396)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="340" height="53" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="339" height="52" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_61" data-name="Rectangle 61" transform="translate(18 465)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="340" height="53" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="339" height="52" rx="7.5" fill="none"/>
+    </g>
+    <g id="Rectangle_62" data-name="Rectangle 62" transform="translate(16 705)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="342" height="47" rx="23.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="341" height="46" rx="23" fill="none"/>
+    </g>
+  </g>
+</svg>

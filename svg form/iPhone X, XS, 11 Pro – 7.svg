@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="776" viewBox="0 0 375 776">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_11_Pro_7">
+      <rect width="375" height="776"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_11_Pro_7" data-name="iPhone X, XS, 11 Pro – 7" clip-path="url(#clip-iPhone_X_XS_11_Pro_7)">
+    <rect width="375" height="776" fill="#f7f9f9"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="257" height="51" rx="16" transform="translate(55 709)" fill="#212144"/>
+    <text id="Sign_in" data-name="Sign in" transform="translate(155 740)" fill="#f7f9f9" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Sign in</tspan></text>
+    <text id="SIGN_IN-2" data-name="SIGN IN" transform="translate(156 688)" fill="#fff" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">SIGN IN</tspan></text>
+    <path id="Rectangle_53" data-name="Rectangle 53" d="M0,0H375a0,0,0,0,1,0,0V0A244,244,0,0,1,131,244H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#212144"/>
+    <text id="Welcome_Back" data-name="Welcome Back" transform="translate(64 342)" fill="#212144" font-size="32" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Welcome Back</tspan></text>
+    <text id="Log_into_your_account" data-name="Log into your account" transform="translate(94 381)" fill="#212144" font-size="16" font-family="Montserrat-Regular, Montserrat" opacity="0.56"><tspan x="0" y="0">Log into your account</tspan></text>
+    <g id="Rectangle_54" data-name="Rectangle 54" transform="translate(15 433)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="54" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="53" rx="14.5" fill="none"/>
+    </g>
+    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(15 503)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="343" height="54" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="342" height="53" rx="14.5" fill="none"/>
+    </g>
+    <text id="Username" transform="translate(78 467)" fill="#212144" font-size="16" font-family="Montserrat-Regular, Montserrat" opacity="0.48"><tspan x="0" y="0">Username</tspan></text>
+    <text id="Password" transform="translate(78 537)" fill="#212144" font-size="16" font-family="Montserrat-Regular, Montserrat" opacity="0.48"><tspan x="0" y="0">Password</tspan></text>
+    <text id="Forget_Password_" data-name="Forget Password?" transform="translate(247 588)" fill="#212144" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Forget Password?</tspan></text>
+    <path id="Icon_ionic-ios-person" data-name="Icon ionic-ios-person" d="M20.493,20.1c-.3-1.325-2.013-1.971-2.6-2.179a19.417,19.417,0,0,0-2.171-.417,2.206,2.206,0,0,1-1-.463,8.776,8.776,0,0,1-.067-2.054,6.181,6.181,0,0,0,.475-.9,11.663,11.663,0,0,0,.35-1.579s.342,0,.463-.6a5.9,5.9,0,0,0,.308-1.4c-.025-.479-.288-.467-.288-.467A7.306,7.306,0,0,0,16.238,7.9,3.433,3.433,0,0,0,12.5,4.5,3.418,3.418,0,0,0,8.767,7.9a7.62,7.62,0,0,0,.279,2.138s-.263-.013-.288.467a5.9,5.9,0,0,0,.308,1.4c.117.6.463.6.463.6a11.663,11.663,0,0,0,.35,1.579,6.18,6.18,0,0,0,.475.9,8.777,8.777,0,0,1-.067,2.054,2.206,2.206,0,0,1-1,.463,19.417,19.417,0,0,0-2.171.417c-.592.208-2.3.854-2.6,2.179a.333.333,0,0,0,.329.4h15.33A.332.332,0,0,0,20.493,20.1Z" transform="translate(25.499 447.5)" fill="#212144"/>
+    <path id="Icon_awesome-lock" data-name="Icon awesome-lock" d="M14.286,7.111h-.857V4.825C13.429,2.165,10.993,0,8,0S2.571,2.165,2.571,4.825V7.111H1.714A1.628,1.628,0,0,0,0,8.635v6.1a1.628,1.628,0,0,0,1.714,1.524H14.286A1.628,1.628,0,0,0,16,14.73v-6.1A1.628,1.628,0,0,0,14.286,7.111Zm-3.714,0H5.429V4.825A2.444,2.444,0,0,1,8,2.54a2.444,2.444,0,0,1,2.571,2.286Z" transform="translate(29.5 522.286)" fill="#212144" stroke="#212144" stroke-width="1"/>
+  </g>
+</svg>
